@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://ochem.eu/static/challenge-data.do?render-mode=popup
+HostUrl=https://ochem.eu/documents/tox24_challenge_train.csv
